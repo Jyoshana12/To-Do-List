@@ -1,7 +1,7 @@
 # To-Do-List
 This is a simple To-Do List application built using Python and Tkinter. It allows users to:  1. Add tasks to the list  2. Delete selected tasks  3.Keep track of daily tasks in an easy way
 
-<img width="367" height="359" alt="image" src="https://github.com/user-attachments/assets/0b176879-f62b-4c0e-841f-3b815d61822e" />
+<img width="367" height="359" alt="image" src="https://github.com/user-attachments/assets/0b176879-f62b-4c0e-841f-3b815d61822e" />          
 
 <img width="372" height="361" alt="image" src="https://github.com/user-attachments/assets/571b3c6b-1114-4084-80b2-ab53c7652e5f" />
 
